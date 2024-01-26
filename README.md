@@ -6,6 +6,7 @@ Just as the title lists, this will be the only note taking app you will ever wan
 
 Demo 
 
+https://youtu.be/eKU5UuXutDA
 
 
 User Story
