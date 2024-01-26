@@ -1,5 +1,13 @@
 # NoteGoat
 
+Description 
+
+Just as the title lists, this will be the only note taking app you will ever want or need. 
+
+Demo 
+
+
+
 User Story
 AS A small business owner
 I WANT to be able to write and save notes
