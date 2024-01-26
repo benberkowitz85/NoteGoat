@@ -1,6 +1,6 @@
 const router = require("express").Router();
 // imported our store.js file, which includes the code for performing read/write operations on our db.json file.
-const store = require("../db/store.js");
+const store = require("db\store.js");
 
 // GET "/api/notes" responds with all notes from the database
 router.get("/notes", (req, res) => {
