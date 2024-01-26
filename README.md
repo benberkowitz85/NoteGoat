@@ -2,7 +2,8 @@
 
 Description 
 
-Just as the title lists, this will be the only note taking app you will ever want or need. 
+Just as the title lists, this will be the only note taking app you will ever want or need.$ heroku login
+
 
 Demo 
 
